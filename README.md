@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning **Full Stack Development**
 - 💻 I know **Java, Python, C++, JavaScript and more**
 - 🎓 Pursuing **B.Tech (CSE) at ABESEC, Ghaziabad**
-- 📫 How to reach me: **your-ntic.shred@gmail.com**
+- 📫 How to reach me: **ntic.shred@gmail.com**
 
 ---
 
