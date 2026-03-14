@@ -4,9 +4,9 @@
 
 - 🔭 I'm currently working on **my Portfolio Website**
 - 🌱 I'm currently learning **Full Stack Development**
-- 💻 I know **Java, Python, C++, JavaScript, C and more**
+- 💻 I know **Java, Python, C++, JavaScript and more**
 - 🎓 Pursuing **B.Tech (CSE) at ABESEC, Ghaziabad**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **your-ntic.shred@gmail.com**
 
 ---
 
