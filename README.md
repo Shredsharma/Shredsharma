@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shred Sharma
+# Hi 👋, I'm Dipyanshu Singh
 
 ### A passionate Full Stack Developer from India 🇮🇳
 
